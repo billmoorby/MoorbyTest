@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 30px;
+}
